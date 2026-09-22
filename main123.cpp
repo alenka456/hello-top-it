@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Top-it";
+	std::cout << "Greetings,Top-it";
 	std::cout <<"\n";
 	std::cout << "My name is Alena\n";
 }
